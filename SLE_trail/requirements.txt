@@ -44,7 +44,7 @@ soupsieve==2.0.1
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.7.0
 tensorflow-estimator==2.2.0
-tensorflow-gpu==2.2.0
+tensorflow-gpu==2.2.1
 termcolor==1.1.0
 tflearn==0.3.2
 urllib3==1.25.9
